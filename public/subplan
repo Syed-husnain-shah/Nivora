@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" fill="none">
+  <rect x="28" y="28" width="164" height="164" rx="42" fill="#F1EEE5"/>
+  <path d="M66 83C75 58 100 45 125 50C140 53 152 63 158 76" stroke="#64806B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M149 74L160 80L165 68" stroke="#64806B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M154 135C145 160 120 173 95 168C80 165 68 155 62 142" stroke="#D27A57" stroke-width="8" stroke-linecap="round"/>
+  <path d="M71 144L60 138L55 150" stroke="#D27A57" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="67" y="78" width="88" height="67" rx="12" fill="#29383B"/>
+  <path d="M67 91C67 86.582 70.582 83 75 83H147C151.418 83 155 86.582 155 91V98H67V91Z" fill="#E0AA68"/>
+  <circle cx="82" cy="116" r="5" fill="#F7F2E8"/>
+  <path d="M96 116H137" stroke="#B5C8B8" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 130H126" stroke="#647D73" stroke-width="4" stroke-linecap="round"/>
+  <text x="229" y="137" fill="#29383B" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Sub</text>
+  <text x="360" y="137" fill="#D27A57" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Plan</text>
+</svg>
